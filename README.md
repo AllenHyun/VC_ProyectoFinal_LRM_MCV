@@ -11,3 +11,5 @@ En este repositorio se encuentra el código fuente para el Módulo de Visión po
 Otros elementos incluidos en este repositorio:
 - Memoria del proyecto
 - Video de 'venta' del proyecto
+- Carátula del proyecto
+- Presentación del proyecto para la defensa (formato PDF y vídeo con animaciones)
