@@ -8,3 +8,6 @@ María Cabrera Vérgez
 ## Contenido
 En este repositorio se encuentra el código fuente para el Módulo de Visión por Computador del Proyecto. El módulo del Videojuego se encuentra en el siguiente enlace (proyecto de Godot): https://github.com/Leslie-Romero/PlataformeroVC
 
+Otros elementos incluidos en este repositorio:
+- Memoria del proyecto
+- Video de 'venta' del proyecto
